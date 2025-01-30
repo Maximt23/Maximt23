@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning general programing and how to make projects
 - 💞️ I’m looking to collaborate on my projects; if you enjoy my material and are an employer feel free to reach out.  
 - 📫 How to reach me maximtowhs@gmail.com
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: Im here to post my ideas and personal projects that I do in my free time
 
 <!---
